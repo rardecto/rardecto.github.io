@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rardecto.github.io/sitemap
+Sitemap: https://rardecto.github.io/app/sitemap
+Sitemap: https://rardecto.github.io/assets/sitemap
+Sitemap: https://rardecto.github.io/css/sitemap
+Sitemap: https://rardecto.github.io/includes/sitemap
+Sitemap: https://rardecto.github.io/item/sitemap
+Sitemap: https://rardecto.github.io/src/sitemap
